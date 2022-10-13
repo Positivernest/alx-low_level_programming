@@ -2,13 +2,11 @@
 
 /**
  *
- *  *main- Serves as the entry point for the program
+ *  * main - Entry
  *
- *   *
+ *   *Return: Always 0
  *
- *    *Return: By default returns zero if no erros otherwise returns non-zero value.
- *
- *     */
+ *    */
 
 int main(void)
 
